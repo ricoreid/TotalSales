@@ -7,7 +7,7 @@ public class Sales {
 	private int sales[][] = new int[5][4];
 	private int[] slip;
 	
-	// Just to test second commit
+	// Just to test second committ
 	// constructor to initialise array with the sales of each person
 	public Sales() {
 		
